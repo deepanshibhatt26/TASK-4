@@ -27,7 +27,7 @@ Sales peak in early May, then decline
 
 B2B and non-Amazon channels contribute very little
 
-Tool Used:
+## Tool Used:
 🔹 Tableau
 
 Dataset Source:
