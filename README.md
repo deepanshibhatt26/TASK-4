@@ -3,7 +3,7 @@ E-Commerce Sales Dashboard Project
 ##🎯 Project Objective
 To analyze online sales data, identify trends, and help business stakeholders make data-driven decisions through an interactive Tableau dashboard.
 
-📊 Key Features of the Dashboard
+## Key Features of the Dashboard
 KPI cards for Total Quantity, Sales Amount, Products, Categories, Sizes
 
 Time-Series Analysis of sales (Weekly trends)
@@ -16,7 +16,7 @@ Filters/Slicers for interactive exploration
 
 Consistent color theme and clean layout for clarity
 
-🔍 Insights Discovered
+## Insights Discovered
 High-performing sizes: L, XL, XXL
 
 Top states by quantity: Maharashtra, Karnataka, Uttar Pradesh
@@ -30,11 +30,11 @@ B2B and non-Amazon channels contribute very little
 ## Tool Used:
 🔹 Tableau
 
-Dataset Source:
+## Dataset Source:
 🔹 Kaggle – Amazon-based E-commerce sales data
 
 
-Files Included
+## Files Included
 
 Tableau Dashboard
 
