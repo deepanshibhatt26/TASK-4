@@ -1,6 +1,7 @@
-# TASK-4
+## TASK-4
 E-Commerce Sales Dashboard Project
-##🎯 Project Objective
+
+## Project Objective
 To analyze online sales data, identify trends, and help business stakeholders make data-driven decisions through an interactive Tableau dashboard.
 
 ## Key Features of the Dashboard
